@@ -2,4 +2,5 @@ Richard Visited
 
 feature10 OhNo
 
-Hello
+const a = 1;
+console.log(a);
